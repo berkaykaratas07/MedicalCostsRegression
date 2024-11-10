@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
    venv\Scripts\activate            # On Windows
    ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
